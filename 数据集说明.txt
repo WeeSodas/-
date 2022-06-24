@@ -1,0 +1,4 @@
+1.本项目数据集来自于天池比赛，由于上传限制，只可以上传部分数据集，完整数据集请到官网下载，网址如下：https://tianchi.aliyun.com/dataset/dataDetail?dataId=127081
+2.由于数据集较小，可能会影响训练结果。
+3.代码中的地址请自行调整。
+4.三个数据集Bacterial leaf blight，Leaf smut，Brown spot放在一个文件夹3-class-riceleafdisease内。
